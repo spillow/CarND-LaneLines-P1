@@ -1,3 +1,15 @@
+#**Files**
+* white_multi_line.mp4 + yellow_multi_line.mp4
+  * Immediate output of of hough transform
+* white_single_line.mp4 + yellow_single_multi.mp4
+  * Hough output condensed to two representative lane lines
+* P1.ipynb
+  * Implementation.  Read notes below for startup.
+* extra.mp4
+  * Annotations on challenge.mp4.  Illustrates lighting difficulties.
+* writeup_template.md
+  * Narrative.
+
 #**Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
