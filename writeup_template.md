@@ -71,6 +71,7 @@ that can throw off the lane detection.
   * ![alt text][image6]
 Is fairly visible with color but in grayscale:
   * ![alt text][image7]
+
 takes some effort to discern even with human vision.  Utilizing color information may be useful here.
 
 * Even though the lanes track well, there is still some jitter I'd like to remove from frame to frame.
